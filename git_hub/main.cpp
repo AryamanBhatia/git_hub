@@ -11,5 +11,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World!\n"; 
+    cout << "Hello World!\n";
+    cout << "It do be kinda like that";
 }
